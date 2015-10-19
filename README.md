@@ -25,3 +25,5 @@ Articles are not meant to be code-complete, or even a walkthrough, but merely to
 ## Contributing:
 
 Feel free to [edit the wiki](https://github.com/mysmallidea/SaaSDesignPatterns/wiki) and add your favorite app design patterns. You may make corrections, but please refrain from deleting anything unless it's obviously wrong. You can use [issues](https://github.com/mysmallidea/SaaSDesignPatterns/issues) to call out anything that you think needs discussion. 
+
+Content from the wiki will periodically be edited and incorporated into http://mysmallidea.github.io/SaaSDesignPatterns/
